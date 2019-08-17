@@ -7,6 +7,7 @@ phrase_input = input("Enter a word or phrase : ")
 
 print("---------------------------------------------")
 
+#Change Here!
 max_generation = 1000
 population_size = 200
 mutation_rate = 0.01
